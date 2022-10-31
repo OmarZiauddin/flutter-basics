@@ -14,7 +14,6 @@ class HomePage extends StatelessWidget {
           "Some Title",
         ),
         centerTitle: true,
-       // backgroundColor: Colors.cyan,
       ),
       body: Center(
         child: Container(
